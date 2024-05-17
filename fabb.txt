@@ -1,2 +1,1 @@
-hola amigos como están
-ERA UNA BROMAAA, ya aprendí a hacer commits, no se si este bien o mal, pero este es el 3ro
+otro commit para calarle como se hace, ahora sin abrir el bloc de notas
